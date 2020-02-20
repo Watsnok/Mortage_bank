@@ -1,0 +1,6 @@
+-d '/Users/olavlillerovde/IdeaProjects/mortgage_bank/build/docs/javadoc'
+-doctitle 'mortgage_bank 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'mortgage_bank 1.0-SNAPSHOT API'
+'/Users/olavlillerovde/IdeaProjects/mortgage_bank/src/test/java/Tests.java'
